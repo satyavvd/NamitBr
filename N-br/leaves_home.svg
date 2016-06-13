@@ -1,0 +1,55 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="189px" height="207px" viewBox="0 0 189 207" style="enable-background:new 0 0 189 207;" xml:space="preserve">
+<style type="text/css">
+<![CDATA[
+	.st0{fill:#240003;stroke:#000209;stroke-miterlimit:10;}
+	.st1{fill:#0A9400;stroke:#000209;stroke-width:2;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;stroke:#000209;stroke-width:3;stroke-miterlimit:10;}
+]]>
+
+
+.st1 {
+	stroke-dasharray: 2000;
+	strode-dasoffset: 0;
+	-webkit-animation: dash 4s linear forward;
+	-o-animation: dash 4s linear forward;
+	-moz-animation: dash 4s linear forward;
+	animation: dash 4s linear forward;
+}
+
+@-webkit-keyframes dash {
+  from {
+    strode-dasoffset: 2000; }
+  to {
+    strode-dasoffset: 0; } }
+
+    .st0 {
+	stroke-dasharray: 2000;
+	strode-dasoffset: 0;
+	-webkit-animation: st0 4s linear forward;
+	-o-animation: st0 4s linear forward;
+	-moz-animation: st0 4s linear forward;
+	animation: st0 4s linear forward;
+}
+
+@-webkit-keyframes st0 {
+  from {
+    strode-dasoffset: 2000; }
+  to {
+    strode-dasoffset: 0; } }
+
+
+</style>
+<symbol  id="Home" viewBox="-194.748 -123.334 290.496 192.882">
+	<path class="st2" d="M93.231-11.153L41.461,17.494v47.391H4.475V37.962l-53.979,29.872l-142.728-78.981l22.442-21.315l15.379,8.509
+		v-97.88H55.419v97.875l15.37-8.503L93.231-11.153z M34.871-106.938H-12.51v56.601h-73.972v-56.601h-47.381v92.463l84.366,46.699
+		l84.367-46.699V-106.938z"/>
+</symbol>
+<use xlink:href="#Home"  width="290.496" height="192.882" id="XMLID_1_" x="-194.748" y="-123.334" transform="matrix(1.2537 0 0 -1.3542 266.9648 48.9844)" style="display:none;overflow:visible;"/>
+<polygon class="st0" points="108,198.5 72,198.5 78,191.5 72,135.5 108,135.5 102,191.5 "/>
+<path class="st1" d="M142.663,85.091C142.882,83.592,143,82.06,143,80.5c0-12.348-7.108-23.029-17.453-28.193
+	C122.818,35.13,107.945,22,90,22c-16.947,0-31.151,11.714-34.978,27.484C40.238,52.079,29,64.973,29,80.5
+	c0,3.246,0.492,6.377,1.404,9.324C22.809,96.424,18,106.147,18,117c0,19.882,16.118,36,36,36c6.722,0,13.01-1.848,18.395-5.055
+	C77.321,151.139,83.191,153,89.5,153c6.515,0,12.568-1.979,17.591-5.366C112.587,151.033,119.063,153,126,153
+	c19.883,0,36-16.117,36-36C162,103.132,154.154,91.104,142.663,85.091z"/>
+</svg>

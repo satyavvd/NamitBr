@@ -1,0 +1,22 @@
+.ip-container{
+	display: block;
+	top: 0;
+	background-color: #000;
+	color: #fff;
+	height: 100%;
+	width: 100%;
+	z-index: 10001;
+	position: absolute;
+}
+
+.ball1 {
+    background: Chocolate;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    bottom: 0;
+    left: 40%;
+    -vendor-animation-duration: 3s;
+    -vendor-animation-delay: 2s;
+}
